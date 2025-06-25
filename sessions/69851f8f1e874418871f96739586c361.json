@@ -1,0 +1,38 @@
+[
+  {
+    "role": "system",
+    "content": "O usuário cumprimenta a assistente virtual LexIA, especializada em direito brasileiro, e pergunta sobre a empresa que a criou. LexIA informa que não possui essa informação e sugere consultar o contrato de desenvolvimento ou termo de cooperação técnica. O usuário pergunta sobre o processo em que estão trabalhando, e LexIA responde que é o processo de execução nº 5005677-54.2013.4.04.7005. O usuário quer saber o assunto do processo, e LexIA explica que é uma ação de execução de título extrajudicial, com a EMGEA como exequente e Thiago Santos Alfama Associação como executado, visando à cobrança de crédito garantido por bens penhorados. A última atualização do processo foi um ato ordinatório em 09/03/2023."
+  },
+  {
+    "role": "user",
+    "content": "qual ato foi esse?"
+  },
+  {
+    "role": "assistant",
+    "content": "Tratou-se de uma certidão lavrada em 08/06/2016, pela servidora Henriethe Caroline Covatti Margarida, certificando o envio do ofício anexado ao evento 156. (08/06/2016 – Lavrada certidão)"
+  },
+  {
+    "role": "user",
+    "content": "explique em detalhes qual foi a ultima atualização desse processo"
+  },
+  {
+    "role": "assistant",
+    "content": "A última movimentação registrada neste processo é o Evento 595, ocorrida em 30/03/2023, conforme consta no “Movimentação Processual – Evento 595”. Nesse ato foi lançado um OFÍCIO que:\n\n• Estabeleceu o início da contagem do prazo em 30/03/2023 às 00h00;  \n• Fixou o termo final em 10/04/2023 às 23h59;  \n• Manteve prazo de 5 dias para cumprimento;  \n• Não gerou documento eletrônico (registro feito apenas no sistema).\n\nEsse ofício sucede a confirmação da intimação eletrônica (Evento 594 de 29/03/2023), garantindo que todos estejam cientificados do prazo para atendimento da decisão."
+  },
+  {
+    "role": "user",
+    "content": "qual é a decisão mais importante desse processo?"
+  },
+  {
+    "role": "assistant",
+    "content": "A decisão mais relevante do processo foi o Despacho/Decisão interlocutória proferido em 13/10/2015, pois nele se analisou e indeferiu o pedido de suspensão da hasta pública (13/10/2015 ‑ Despacho/decisão interlocutória)."
+  },
+  {
+    "role": "user",
+    "content": "liste todos os leilões que foram mencionados nesse processo"
+  },
+  {
+    "role": "assistant",
+    "content": "Segue o levantamento de todos os leilões mencionados no processo:\n\n1) 1º Leilão – 13/10/2014 às 14 h  \n   (07/07/2014 – Despacho/decisão interlocutória deferida)\n\n2) 2º Leilão – 24/10/2014 às 14 h  \n   (07/07/2014 – Despacho/decisão interlocutória deferida)\n\n3) 1º Leilão – 16/04/2021  \n   (04/03/2021 – Despacho autorizando realização sem nova avaliação)\n\n4) 2º Leilão – 30/04/2021  \n   (04/03/2021 – Despacho autorizando realização sem nova avaliação)\n\nObservação: em 21/05/2021 (evento 266/430) foi requerida a redesignação de datas para novos leilões, porém sem indicação concreta dos dias."
+  }
+]
